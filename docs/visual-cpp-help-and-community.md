@@ -1,7 +1,7 @@
 ---
 title: "Visual C++ Help and Community"
 ms.date: "11/30/2017"
-ms.technology: ["cpp-ide"]
+ms.technology: "cpp-ide"
 ms.assetid: 6bc23c18-fcd9-47bc-bff2-17537700be4a
 author: "mikeblome"
 ms.author: "mblome"
@@ -21,7 +21,7 @@ Here's how to getting information about how to write C++ code and use the Visual
 |Title|Description|
 |-----------|-----------------|
 |[Visual C++](visual-cpp-in-visual-studio.md)|Contains reference and conceptual documentation about Visual C++. Part of the MSDN Library.|
-|[Windows Developer Center](https://developer.microsoft.com/windows/)|Contains information about how to use C++ and other languages to develop apps for Windows 8. Part of the Windows Developer Center; the C++ content is under the Docs > Language Reference node.|
+|[Windows Developer Center](https://developer.microsoft.com/windows/)|Contains information about how to use C++ and other languages to develop apps for Windows 10. Part of the Windows Developer Center; the C++ content is under the Docs > Language Reference node.|
 
 ### Online and Offline Documentation
 
